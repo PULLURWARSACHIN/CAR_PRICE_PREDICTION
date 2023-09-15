@@ -10,13 +10,13 @@ This project aims to predict car prices based on various features using machine 
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Model Training](#Model-training)
+- [Results](#Results)
+- [Contributing](#Contributing)
+- [Conclusin](#Conclusin)
 
 ## Introduction
 
@@ -89,4 +89,6 @@ If you'd like to contribute to this project, please follow the standard GitHub w
 ## Conclusion
 
 <img width="1440" alt="Screenshot 2023-09-15 at 2 14 09 PM" src="https://github.com/PULLURWARSACHIN/CAR_PRICE_PREDICTION/assets/105495917/e16fa72b-b8c3-4327-9869-436267db0e84">
+
+##
 
