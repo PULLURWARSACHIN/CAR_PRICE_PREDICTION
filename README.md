@@ -76,7 +76,7 @@ Example usage:
 
 ## Model Training
 
-Details about the model training process, including data preprocessing, model selection, hyperparameters, and evaluation, can be found in the `model_training.ipynb` notebook.
+Details about the model training process, including data preprocessing, model selection, hyperparameters, and evaluation.
 
 ## Results
 
