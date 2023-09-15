@@ -40,7 +40,7 @@ The dataset contains the following features:
 
 ## Installation
 
-2. Install the required dependencies using pip:
+1. Install the required dependencies using pip:
 - pip install numpy
 - pip install pandas
 - pip install matplotlib
